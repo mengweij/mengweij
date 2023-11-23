@@ -1,13 +1,10 @@
 ### Hi there 👋 I'm Mengwei.
 
-## 🌐 About Me
-
 - 🎓 Currently pursuing a bachelor's degree in Computer Science at UBC.
-- 💻 Working as a SWE in Korotu Technology to build VLPs(Very Lovable Products)!
+- 💻 A SWE in Korotu Technology to build VLPs(Very Lovable Products)!
 - 💼 Five years of valuable consulting work experience.
 - 🍎 One year experience as a middle school teacher.
-- 💪 Proven ability to navigate career transitions in pursuit of my passion.
-- 👩‍💻 A proud woman in tech.
+- 👩‍💻 A proud woman in tech, with a proven ability to navigate career transitions in pursuit of my passion.
 
 ## 💻 Tech Stack
 
