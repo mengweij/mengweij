@@ -15,7 +15,7 @@
 ## And a little bit more about me...
 - 📖 An avid reading-lover
 - 👩🏻‍🍳 An indulgent cooking-lover
-- ☕️ An enthusiastic coffee-lover
+- ☕️ An enjoying-every-cup coffee-lover
   
 <!--
 **mengweij/mengweij** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
