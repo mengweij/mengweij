@@ -1,18 +1,22 @@
 ### Hi there 👋 I'm Mengwei.
 
 - 🎓 Currently pursuing a bachelor's degree in Computer Science at UBC.
-- 💻 A SWE in Korotu Technology to build VLPs(Very Lovable Products)!
-- 💼 Five years of valuable consulting work experience.
-- 🍎 One year experience as a middle school teacher.
-- 👩‍💻 A proud woman in tech, with a proven ability to navigate career transitions in pursuit of my passion.
+- 💻 A SWE in Korotu Technology, building VLPs(Very Lovable Products)!
+- 💼 Five years as a consulting manager who solved numerous problems.
+- 🍎 One year as a middle school teacher who presented communication skills.
+- 👩🏻‍💻 A proud woman in tech, with a proven ability to navigate career transitions in pursuit of my passion.
 
-## 💻 Tech Stack
+## 🛠️ Tech Stack
 
 - Languages: Java, JavaScript, Python, HTML, CSS
 - Frameworks / Tools: React, Django, jQuery, Node.js, Express.js, MongoDB, Bootstrap, Mapbox GL JS
 - Others: Git, JSON, OAuth, VS Code, Agile Development, GIS
 
-
+## And a little bit more about me...
+- 📖 An avid reading-lover
+- 👩🏻‍🍳 An indulgent cooking-lover
+- ☕️ An enthusiastic coffee-lover
+  
 <!--
 **mengweij/mengweij** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
