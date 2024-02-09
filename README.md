@@ -9,9 +9,9 @@
 
 ## 🛠️ Tech Stack
 
-- Languages: Java, JavaScript, Python, HTML, CSS
-- Frameworks / Tools: React, Django, jQuery, Node.js, Express.js, MongoDB, Bootstrap, Mapbox GL JS
-- Others: Git, JSON, OAuth, VS Code, Agile Development, GIS
+- Programming: Java, JavaScript, Python, HTML, CSS
+- Frameworks / Tools: React, Django, jQuery, Node.js, Express.js, MongoDB, Postman, PlayWright, Bootstrap, Mapbox GL
+- Others: Microsoft Azure, Git, JSON, MVC, OAuth, VS Code, Agile Development, GIS
 
 ## And a little bit more about me...
 - 📖 An avid reading-lover
