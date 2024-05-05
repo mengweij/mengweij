@@ -9,7 +9,7 @@
   - Built a web application using React and Python to detect environmental events based on satellite imagery, supporting sustainability efforts.
 
 ### 💼 Previous Experience
-- Problem-solving and communication skills honed through a combined five years as a consulting manager and middle school teacher.
+- Problem-solving and communication skills honed through a combined six years as a consulting manager and middle school teacher.
 
 ### 🛠️ Tech Stack
 
