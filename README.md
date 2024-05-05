@@ -1,19 +1,23 @@
-## Hi there 👋 I'm Mengwei.
-### I'm looking for a 2024 summer internship!
+## Hi there 👋 I'm Mengwei, a passionate woman with a diverse background eager to make a positive impact using CS.
 
-- 🎓 Currently pursuing a bachelor's degree in Computer Science at UBC.
-- 💻 Eight months Software Engineer internship in [Korotu Technology](https://www.korotu.com/), built VLPs(Very Lovable Products)!
-- 💼 Five years as a consulting manager who solved numerous problems.
-- 🍎 One year as a middle school teacher who presented communication skills.
-- 👩🏻‍💻 A proud woman in tech, with a proven ability to navigate career transitions in pursuit of my passion.
+### Education
+- 🎓 Currently pursuing a bachelor's degree in Computer Science at [UBC](https://www.timeshighereducation.com/world-university-rankings/university-british-columbia).
+- 📰 First bacherlor's degree in Economics from [Peking Univerisity](https://www.timeshighereducation.com/world-university-rankings/peking-university) and a master's degree in City Planning from [University of Pennsylvia](https://www.timeshighereducation.com/world-university-rankings/university-pennsylvania).
 
-## 🛠️ Tech Stack
+### Work Experience in Tech
+- 💻 Software Engineer Intern (8 months) at [Korotu Technology](https://www.korotu.com/)
+  - Built a web application using React and Python to detect environmental events based on satellite imagery, supporting sustainability efforts.
+
+### Previous Experience
+- Problem-solving and communication skills honed through a combined five years as a consulting manager 💼 and middle school teacher 👩🏻‍🏫.
+
+### 🛠️ Tech Stack
 
 - Programming: Java, JavaScript, Python, HTML, CSS
-- Frameworks / Tools: React, Django, jQuery, Node.js, Express.js, MongoDB, Postman, PlayWright, Bootstrap, Mapbox GL
-- Others: Microsoft Azure, Git, JSON, MVC, OAuth, VS Code, Agile Development, GIS
+- Frameworks / Tools: React, Django, Node.js, Express.js, MongoDB, Postman, PlayWright, Bootstrap
+- Others:Git, JSON, MVC, OAuth, VS Code, Agile Development, GIS
 
-## And a little bit more about me...
+### And a little bit more about me...
 - 📖 An avid reading-lover
 - 👩🏻‍🍳 An indulgent cooking-lover
 - ☕️ An enjoying-every-cup coffee-lover
