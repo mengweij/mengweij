@@ -2,7 +2,7 @@
 ### I'm looking for a 2024 summer internship!
 
 - 🎓 Currently pursuing a bachelor's degree in Computer Science at UBC.
-- 💻 A Software Engineer intern in [Korotu Technology](https://www.korotu.com/), building VLPs(Very Lovable Products)!
+- 💻 Eight months Software Engineer internship in [Korotu Technology](https://www.korotu.com/), built VLPs(Very Lovable Products)!
 - 💼 Five years as a consulting manager who solved numerous problems.
 - 🍎 One year as a middle school teacher who presented communication skills.
 - 👩🏻‍💻 A proud woman in tech, with a proven ability to navigate career transitions in pursuit of my passion.
