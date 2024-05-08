@@ -1,8 +1,8 @@
 ## Hi there 👋 I'm Mengwei, a passionate woman with a diverse background eager to make a positive impact using CS.
 
 ### 🎓 Education
-- Currently pursuing a bachelor's degree in Computer Science at [UBC](https://www.timeshighereducation.com/world-university-rankings/university-british-columbia).
-- First bacherlor's degree in Economics from [Peking Univerisity](https://www.timeshighereducation.com/world-university-rankings/peking-university) and a master's degree in City Planning from [University of Pennsylvia](https://www.timeshighereducation.com/world-university-rankings/university-pennsylvania).
+- Currently pursuing a bachelor's degree in Computer Science at [University of British Columbia (UBC)](https://www.timeshighereducation.com/world-university-rankings/university-british-columbia).
+- First bacherlor's degree in Economics from [Peking University](https://www.timeshighereducation.com/world-university-rankings/peking-university) and a master's degree in City Planning from [University of Pennsylvania](https://www.timeshighereducation.com/world-university-rankings/university-pennsylvania).
 
 ### 💻 Work Experience in Tech
 - Software Engineer Intern (8 months) at [Korotu Technology](https://www.korotu.com/)
