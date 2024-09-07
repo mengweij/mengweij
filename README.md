@@ -5,6 +5,8 @@
 - First bacherlor's degree in Economics from [Peking University](https://www.timeshighereducation.com/world-university-rankings/peking-university) and a master's degree in City Planning from [University of Pennsylvania](https://www.timeshighereducation.com/world-university-rankings/university-pennsylvania).
 
 ### 💻 Work Experience in Tech
+- Software Engineer Intern (4 months) at [Yakoa](https://www.yakoa.io/)
+  - Maintained data infrastructure using Python and GraphQL
 - Software Engineer Intern (8 months) at [Korotu Technology](https://www.korotu.com/)
   - Built a web application using React and Python to detect environmental events based on satellite imagery, supporting sustainability efforts.
 
@@ -13,9 +15,9 @@
 
 ### 🛠️ Tech Stack
 
-- Programming: Java, JavaScript, Python, HTML, CSS
-- Frameworks / Tools: React, Django, Node.js, Express.js, MongoDB, Postman, PlayWright, Bootstrap
-- Others:Git, JSON, MVC, OAuth, VS Code, Agile Development, GIS
+- Programming Languages: JavaScript, Python, Java, HTML, CSS, GraphQL, SQL
+- Frameworks & Libraries: React, Django, Node.js, Express.js, Bootstrap
+- Tools & Other: PostgreSQL, MongoDB, Postman, Pytest, k6, Playwright, Git, OAuth, VS Code, Agile Development, GIS
 
 ### And a little bit more about me...
 - 📖 An avid reading-lover
