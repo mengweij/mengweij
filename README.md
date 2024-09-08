@@ -6,9 +6,9 @@
 
 ### 💻 Work Experience in Tech
 - Software Engineer Intern (4 months) at [Yakoa](https://www.yakoa.io/)
-  - Maintained data infrastructure using Python and GraphQL
+  - Enhanced the data infrastructure of a SaaS product that provides AI-powered intellectual property protection for the blockchain, mainly using Python and GraphQL
 - Software Engineer Intern (8 months) at [Korotu Technology](https://www.korotu.com/)
-  - Built a web application using React and Python to detect environmental events based on satellite imagery, supporting sustainability efforts.
+  - Delivered a web application that detects environmental events based on satellite imagery for institutional users, mainly using React and Django
 
 ### 💼 Previous Experience
 - Problem-solving and communication skills honed through a combined six years as a consulting manager and middle school teacher.
