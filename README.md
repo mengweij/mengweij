@@ -15,9 +15,9 @@
 
 ### 🛠️ Tech Stack
 
-- Programming Languages: JavaScript, Python, Java, HTML, CSS, GraphQL, SQL
-- Frameworks & Libraries: React, Django, Node.js, Express.js, Bootstrap
-- Tools & Other: PostgreSQL, MongoDB, Postman, Pytest, k6, Playwright, Git, OAuth, VS Code, Agile Development, GIS
+- Programming Languages: JavaScript, Python, Java, TypeScript, HTML, CSS, GraphQL, SQL
+- Frameworks & Libraries: React, Next.js, Django, Node.js, Express.js, Tailwind CSS, Bootstrap
+- Tools & Other: Git, PostgreSQL, MongoDB, Pinecone, Supabase, Postman, Pytest, k6, Playwright, Vercel, OAuth, GIS
 
 ### And a little bit more about me...
 - 📖 An avid reading-lover
