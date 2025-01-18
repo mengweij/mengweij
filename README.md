@@ -2,7 +2,7 @@
 
 ### 🎓 Education
 - Currently pursuing a bachelor's degree in Computer Science at [University of British Columbia (UBC)](https://www.timeshighereducation.com/world-university-rankings/university-british-columbia).
-- First bacherlor's degree in Economics from [Peking University](https://www.timeshighereducation.com/world-university-rankings/peking-university) and a master's degree in City Planning from [University of Pennsylvania](https://www.timeshighereducation.com/world-university-rankings/university-pennsylvania).
+- My master's degree in City Planning from [University of Pennsylvania](https://www.timeshighereducation.com/world-university-rankings/university-pennsylvania) and first bacherlor's degree in Economics from [Peking University](https://www.timeshighereducation.com/world-university-rankings/peking-university).
 
 ### 💻 Work Experience in Tech
 - Software Engineer Intern (4 months) at [Yakoa](https://www.yakoa.io/)
