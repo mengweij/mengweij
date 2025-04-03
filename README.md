@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Mengwei, a passionate woman with a diverse background eager to make a positive impact using CS.
+## Hi there 👋 I'm Mengwei, a passionate woman with a diverse background eager to make a positive impact by coding!
 
 ### 🎓 Education
 - Currently pursuing a bachelor's degree in Computer Science at [University of British Columbia (UBC)](https://www.timeshighereducation.com/world-university-rankings/university-british-columbia).
@@ -6,18 +6,18 @@
 
 ### 💻 Work Experience in Tech
 - Software Engineer Intern (4 months) at [Yakoa](https://www.yakoa.io/)
-  - Enhanced the data infrastructure of a SaaS product offering AI-powered intellectual property protection for blockchain transactions, using Python and GraphQL.
+  - Developed and maintained a Python/GraphQL API infrastructure to synchronize Yakoa’s AI-powered blockchain transaction infringement detection database (PostgreSQL/Supabase) with the user-facing web portal.
 - Software Engineer Intern (8 months) at [Korotu Technology](https://www.korotu.com/)
-  - Developed a web application in collaboration with a cross-functional team to detect environmental events using satellite imagery, using React and Django.
+  - Collaborated with a cross-functional team to build a satellite imagery analytics platform for forest event detection.
 
 ### 💼 Previous Experience
 - Problem-solving and communication skills honed through a combined six years as a consulting manager and middle school teacher.
 
 ### 🛠️ Tech Stack
 
-- **Programming Languages**: Python, JavaScript, TypeScript, Java, C, C++, HTML, CSS, SQL, GraphQL
-- **Frameworks & Libraries**: React, Node.js, Next.js, Express.js, Django, Tailwind CSS, Bootstrap, Scikit-learn, NumPy, pandas
-- **Tools & Other**: Git, Docker, Azure, PostgreSQL, MongoDB, OAuth, Postman, Pytest, JUnit, Mocha, Playwright, k6, Vercel
+- **Programming Languages**: Python, JavaScript, TypeScript, Java, C++, C, HTML, CSS, SQL, GraphQL
+- **Frameworks & Libraries**: React, Node.js, Next.js, Express.js, Django, Tailwind CSS, Scikit-learn, NumPy, pandas
+- **Tools & Other**: Git, Docker, PostgreSQL, SQLite, MongoDB, OAuth, Postman, Pytest, JUnit, Mocha, Playwright, k6, Vercel
 
 ### And a little bit more about me...
 - 📖 An avid reading-lover
