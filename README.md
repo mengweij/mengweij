@@ -15,9 +15,9 @@
 
 ### 🛠️ Tech Stack
 
-- **Programming Languages**: Python, JavaScript, TypeScript, Java, C++, C, HTML, CSS, SQL, GraphQL
-- **Frameworks & Libraries**: React, Node.js, Next.js, Express.js, Django, Tailwind CSS, Scikit-learn, NumPy, pandas
-- **Tools & Other**: Git, Docker, PostgreSQL, SQLite, MongoDB, OAuth, Postman, Pytest, JUnit, Mocha, Playwright, k6, Vercel
+- **Languages**: TypeScript, JavaScript, Python, Java, C++, SQL, HTML/CSS
+- **Frameworks & Libraries**: React, Node.js, Next.js, Express.js, Django, Fastify, Tailwind CSS, Prisma, Scikit-learn, NumPy, pandas
+- **Tools & Platforms**: Git, Docker, PostgreSQL, SQLite, MongoDB, GraphQL, OAuth, Vercel, Render, Postman, Pytest, JUnit
 
 ### And a little bit more about me...
 - 📖 An avid reading-lover
