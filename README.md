@@ -5,7 +5,7 @@
 - My master's degree in City Planning from [University of Pennsylvania](https://www.timeshighereducation.com/world-university-rankings/university-pennsylvania) and first bacherlor's degree in Economics from [Peking University](https://www.timeshighereducation.com/world-university-rankings/peking-university).
 
 ### 💻 Work Experience in Tech
-- Software Engineer Intern (4 months) at [Dialpad](https://www.dialpad.com/)
+- Software Engineer Intern at [Dialpad](https://www.dialpad.com/)
   - Developed and maintained full-stack features for the omnichannel module across a Java/JAX-RS backend and Vue.js frontend in Dialpad’s core AI communications platform serving 30,000+ business customers.
 - Software Engineer Intern (4 months) at [Yakoa](https://www.yakoa.io/)
   - Developed and maintained Python/GraphQL backend services for Yakoa’s AI-powered blockchain-based infringement detection platform used by global luxury brands (e.g., LVMH, Dior).
